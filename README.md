@@ -48,7 +48,7 @@
 * 역할 : 팀 프로젝트 (설계, 어플리케이션 개발, Firebase 설정 및 관리, 스마트팜<->파이어베이스 통신파트 개발)
 * 기간 : 2021.04 ~ 2021.11
 ### WAS Project
-OWASP Top 10 기반의 웹 취약점 점검 도구
+K-Shield Jr. 6기 과정에서 제출한 프로젝트로, OWASP Top 10 기반의 웹 취약점 점검 도구
 
 * Repository : https://github.com/a1216843/WASProjects
 * 역할 : 팀 프로젝트 (Injection 파트 개발)
