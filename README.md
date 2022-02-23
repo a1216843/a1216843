@@ -53,3 +53,28 @@ OWASP Top 10 기반의 웹 취약점 점검 도구
 * Repository : https://github.com/a1216843/WASProjects
 * 역할 : 팀 프로젝트 (Injection 파트 개발)
 * 기간 : 2020.04 ~ 2020.06
+
+## Toy Project (or Clone Project)
+### CleanArchitecture with.GithubAPI
+GithubAPI를 사용해 Repository를 검색하고, Owner User를 확인하는 단순한 기능의 어플리케이션을 단계적으로 리팩토링하여 Clean Architecture를 익히기 위한 프로젝트
+
+* Repository : https://github.com/a1216843/GithubAPI
+* 역할 : 개인 프로젝트
+
+### RetrofitPractice
+배민 API를 사용하는 Retrofit 연습용 프로젝트
+
+* Repository : https://github.com/a1216843/RetrofitPractice
+* 역할 : 개인 프로젝트
+
+### KotlinPractice
+Kotlin 연습 및 ViewBinding, DataBinding, Room 등 AAC 연습용 프로젝트
+
+* Repository : https://github.com/a1216843/Kotlinpractice
+* 역할 : 개인 프로젝트
+
+### Clone_Insta
+인프런 강의중 인스타그램 클론 프로젝트(하울스타그램)
+
+* Repository : https://github.com/a1216843/Clone_Insta
+* 역할 : 개인 프로젝트
