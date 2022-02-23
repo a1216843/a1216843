@@ -74,7 +74,7 @@ Kotlin 연습 및 ViewBinding, DataBinding, Room 등 AAC 연습용 프로젝트
 * 역할 : 개인 프로젝트
 
 ### Clone_Insta
-인프런 강의중 인스타그램 클론 프로젝트(하울스타그램)
+인프런에서 제공하는 인스타그램 클론 프로젝트 강의(하울스타그램)
 
 * Repository : https://github.com/a1216843/Clone_Insta
 * 역할 : 개인 프로젝트
